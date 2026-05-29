@@ -1,0 +1,60 @@
+# ===========================
+# MATLAB / Simulink
+# ===========================
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+slprj/
+*.slxc
+*.autosave
+codegen/
+*.op.diary
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ===========================
+# LaTeX
+# ===========================
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# ===========================
+# Sistema operativo
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# ===========================
+# Editores
+# ===========================
+.vscode/
+.idea/
+*.swp
+*.swo
