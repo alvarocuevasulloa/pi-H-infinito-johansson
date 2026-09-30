@@ -24,7 +24,7 @@ La geometría y los parámetros de la planta provienen de la implementación de 
 ```
 codigo/       Scripts de MATLAB y Python (16 archivos)
 resultados/   CSV de la corrida reportada en el documento (ensayos E1-E5 y resumen de métricas)
-figuras/      Figuras de los ensayos y captura de la escena de Factory I/O
+figuras/      Figuras de los ensayos, validación del modelo lineal, comparación de geometrías y escena de Factory I/O
 ```
 
 | Archivo | Función |
